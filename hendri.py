@@ -1,0 +1,6 @@
+print('nama saya hendri')
+print('ini program pertama saya')
+print('Alamat saya desa bedengung Bangka Selatan')
+print('Hobi saya nonton drakor,komik dan membaca')
+print(' saya berasal dari sekolah smkn 1 payung')
+print('Saya lahir pada tanggal 17 agustus 2003')
